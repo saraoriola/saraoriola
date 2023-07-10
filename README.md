@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara Oriola</h1>
+<h1 align="center">Hi 👋🏽, I'm Sara Oriola</h1>
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraoriola" alt="saraoriola" /> </p>
 
